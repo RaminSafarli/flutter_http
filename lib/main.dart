@@ -5,7 +5,6 @@ import 'package:flutter_http/model/datum_model.dart';
 import 'package:flutter_http/service/api_service.dart';
 
 void main(List<String> args) {
-  String test = 'test';
   runApp(const MyApp());
 }
 
